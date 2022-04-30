@@ -1,0 +1,15 @@
+@import url("styleRegistration.css");
+
+.container2{
+    height: 750px;
+    margin-top: 70px;
+}
+.ahome{
+    float: right;
+  }
+.footer{
+    position: relative;
+}
+body{
+    background: linear-gradient(135deg, #9b59b6,#71b7e6);
+}
